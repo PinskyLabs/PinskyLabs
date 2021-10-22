@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Pinak
-- 👀 I’m interested in Flutter Development 
+- Currently in 🇮🇳
+- 👀 I’m interested in App Development 
 - 🌱 I’m currently learning how to develop apps using Flutter
-- 📫 Just reach me by my email pinskyman@gmail.com
+- 📫 Just reach me by my email pinak.parate@gmail.com
+- 👨‍💻 Have an interest in UI/UX.
+- 😃 Have basic knowledge and know basic working of Graphic Designing with Adobe Illustrator. Also, have a little knowledge of Adobe Photoshop.
+
 
 <!---
 PinskyLabs/PinskyLabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
