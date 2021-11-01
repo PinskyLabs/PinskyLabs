@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Pinak
 - Currently in 🇮🇳
 - 👨‍💻 I’m interested in App Development 
+- I do Python sometimes.
 - 🌱 I’m currently learning how to develop apps using Flutter
 - 📫 Just reach me by my email pinak.parate@gmail.com
 - 👀 Have an interest in UI/UX.
