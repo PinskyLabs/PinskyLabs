@@ -3,7 +3,7 @@
 - 👨‍💻 I’m interested in App Development 
 - I do Python sometimes.
 - 🌱 I’m currently learning how to develop apps using Flutter
-- 📫 Just reach me by my email pinak.parate@gmail.com
+- 📫 Just reach me by my email ppdsdesignone@gmail.com
 - 👀 Have an interest in UI/UX.
 - 😃 Have basic knowledge and know basic working of Graphic Designing with Adobe Illustrator. Also, have a little knowledge of Adobe Photoshop.
 
